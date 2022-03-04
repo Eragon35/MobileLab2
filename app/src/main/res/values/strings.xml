@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button1">Button</string>
+    <string name="РМП">РМП</string>
+    <string name="БЛПС">БЛПС</string>
+    <string name="РСХД">РСХД</string>
+    <string name="ТПО">ТПО</string>
+    <string name="ЦК">ЦК</string>
+    <string name="Английский_язык">Английский язык</string>
+    <string name="Физ_ра">Физ-ра</string>
+    <string name="my_isu">My ISU</string>
+    <string name="КС">КС</string>
+    <string name="СПО">СПО</string>
+    <string name="Максимова">Максимова</string>
+    <string name="брокер">брокер</string>
+    <string name="Заработой_больше_денег">Заработой больше денег</string>
+    <string name="_115">Я купил по 115Р</string>
+    <string name="blabla">* и продать мать в рабство</string>
+    <string name="_60">КУПИТЬ $ ПО 60Р*</string>
+    <string name="Иванов_Иван">Иванов Иван</string>
+    <string name="Оставить_чаевые">Оставить чаевые</string>
+    <string name="comment">Комментарий к поездке:</string>
+    <string name="passangers">Котлинмобил заботиться\nо своих пассажирах</string>
+    <string name="StupidPromo">ДурацкаяРеклама</string>
+    <string name="raiting_bar">Raiting bar</string>
+    <string name="Edit_text">Edit text</string>
+    <string name="edit_text">Edit text</string>
+</resources>
